@@ -1,4 +1,4 @@
-### Hi I'm Chenna 👋
+## Hi I'm Chenna 👋
 
 <!-- <img src="/images/8401.jpg" alt='illustration of guy with laptop'/> -->
 
@@ -6,7 +6,7 @@
 <!-- <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica"> -->
 
 
-## I turn ideas into products and softwares
+### I turn ideas into products and softwares
 
 I'm a software engineer who is passionate about making softwares that eases the lives of people and creates a good flow of accessibility, creating technology to elevate people. Some technologies I enjoy working with include ReactJS and ReactNative. 
 My Goal is to build valuable and scalable products, with Individuals and companies.
