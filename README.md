@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
   <img src="https://img.shields.io/npm/dm/react-native-badge-avatar.svg?style=flat-square" />&nbsp;&nbsp;&nbsp;
+  [![npm downloads](https://img.shields.io/npm/dm/react-native-badge-avatar.svg?style=flat-square)](https://www.npmjs.com/package/react-native-badge-avatar)
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
 </p>
