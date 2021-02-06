@@ -3,7 +3,7 @@
 <!-- <img src="/images/8401.jpg" alt='illustration of guy with laptop'/> -->
 <div
     style="background-color: #80d0c7; font-weight: bolder; color: white; width: 100%; height: 250px; text-align: center; ">
-    <strong>Turn your ideas into products and softwares</strong>
+    ### <h2>Turn your ideas into products and softwares</h2>
 </div>
 
 <!--
