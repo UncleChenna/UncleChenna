@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<img src="/images/8401.jpg" alt='illustration of guy with laptop'/>
+<!-- <img src="/images/8401.jpg" alt='illustration of guy with laptop'/> -->
+<div
+    style="background-color: #80d0c7; font-weight: bolder; color: white; width: 100%; height: 250px; text-align: center; ">
+    <p>Turn your ideas into products and softwares</p>
+</div>
 
 <!--
 **UncleChenna/UncleChenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
