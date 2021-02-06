@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="/images/8401.jpg" alt='illustration of guy with laptop'/>
+<img src="/images/8401.jpg" height="150" alt='illustration of guy with laptop'/>
 
 <!--
 **UncleChenna/UncleChenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
