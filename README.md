@@ -12,7 +12,7 @@ I'm a software engineer who is passionate about making softwares that eases the 
 My Goal is to build valuable and scalable products, with Individuals and companies.
 
 
-## Find me around the web 🌎
+# Find me around the web 🌎
 
 - LinkedIn: <a href="https://www.linkedin.com/in/eyibie-uche-73a531165/"> eyibie uche</a>
 - Twitter : <a href="https://twitter.com/dev_chenna">Dev_chenna</a>
