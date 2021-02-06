@@ -33,12 +33,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h1 align="center"> 👋 </h1>
 <div align="center">
   <!-- <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/> -->
 </div>
-<p align="center"> (Open for Hiring)</p>
+<p align="center"> Open for Hiring</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
@@ -50,7 +48,7 @@ Here are some ideas to get you started:
       My Goal is to build valuable and scalable products, with Individuals and companies.
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=UncleChenna" alt="https://github.com/UncleChenna" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=UncleChenna" alt="https://github.com/UncleChenna" /> -->
 </p>
 
 <hr>
