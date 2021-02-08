@@ -1,7 +1,5 @@
 ## Hi I'm Chenna 👋
 
-<!-- <img src="/images/8401.jpg" alt='illustration of guy with laptop'/> -->
-
 
 <!-- <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica"> -->
 
@@ -35,6 +33,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <!-- <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/> -->
+  <img src="/images/uche1-2.jpg" alt='my header'/>
 </div>
 <p align="center"> Open for Hiring</p>
 
