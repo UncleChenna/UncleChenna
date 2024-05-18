@@ -1,4 +1,4 @@
-<!-- ## Hi I'm Chenna 👋 -->
+<!-- ## Hi I'm Divine 👋 -->
 
 
 <!-- <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica"> -->
@@ -57,12 +57,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">TailwindCSS, Python, Javascript, MaterialUI, ChakraUi, React, ReactNative</p>
+<p align="center">TailwindCSS, Python, Javascript, MaterialUI, ChakraUi, React, ReactNative, NodeJS, NestJS, NextJS, Redis</p>
 
 <hr>
 
 <h2  align="center">📫 Reach me on</h2>
-- LinkedIn: <a href="https://www.linkedin.com/in/eyibie-uche-73a531165/"> eyibie uche</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/divine-eyibie/"> eyibie uche</a>
 - Twitter : <a href="https://twitter.com/dev_chenna">Dev_chenna</a>
 
 <hr>
