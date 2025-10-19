@@ -1,47 +1,75 @@
-<!-- Header Image -->
-<div align="center">
-  <img src="/images/uche1-2.jpg" alt="Header Image"/>
-</div>
-
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Divine+Eyibie;Software+Engineer+%7C+Builder+of+Scalable+Products;Turning+Ideas+Into+Impactful+Solutions" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Divine+Eyibie;Software+Engineer+%7C+Product+Builder;Turning+Ideas+Into+Scalable+Solutions" alt="Typing Animation">
 </h1>
 
-<p align="center">
-  <samp>
-    Passionate about building scalable, accessible, and impactful software solutions that improve workflows and elevate user experience.  
-    I specialize in full-stack product development and collaboration with teams and organizations to deliver high-value technology.
-  </samp>
-</p>
+---
+
+## 👨‍💻 About Me
+
+I am a **resourceful software engineer** passionate about building products that improve everyday life, enhance accessibility, and empower people through technology. I care deeply about usability, scalability, and seamless experiences.
+
+I have a strong understanding of the technologies needed to develop and deploy **highly available, scalable, and production-ready applications**.  
+My goal is simple: **to build valuable and impactful products for individuals, startups, and established companies**—products that are not just functional, but meaningful.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧩 What I Do
 
-<p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-00E5FF?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-00E5FF?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-00E5FF?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactNative-00E5FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-00E5FF?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-00E5FF?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+### ✅ Fullstack Engineering
+I build end-to-end digital products using modern web technologies, handling:
+- Frontend architecture and user interfaces
+- Backend development and APIs
+- Deployment, versioning, and maintenance
+
+### ✅ Product Development
+From concept to launch, I collaborate with teams, founders, and businesses to:
+- Transform ideas into real products
+- Design scalable architecture
+- Ensure long-term maintainability
+- Optimize user experience and performance
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I'm Currently Working With
+I'm actively building with:
+- **JavaScript**
+- **Python**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UncleChenna&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=transparent&icon_color=00E5FF&text_color=ffffff" alt="GitHub Stats"/>
-</p>
+These form the core of my daily development stack as I expand into broader ecosystems.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UncleChenna&layout=compact&hide_border=true&theme=transparent&text_color=ffffff&title_color=00E5FF" alt="Top Languages"/>
-</p>
+---
+
+## 🛠️ Core Technologies & Tools
+
+### ⚛️ Frontend
+- Next.js
+- React.js
+
+### 🏗️ Backend
+- NestJS
+- Node.js
+
+### 🗃️ Databases
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+
+### ⚙️ DevOps / Deployment (experience & practice areas)
+- Version control (Git/GitHub)
+- Scalable deployments
+- Environment management
+- API integrations
+
+---
+
+## 🔭 Technologies I’m Exploring
+I'm expanding my knowledge and skillset in:
+- **Advanced Python applications**
+- **Backend architecture patterns**
+- **Cloud-native deployments**
+- **Microservices and distributed systems**
+- **Performance optimization and infrastructure automation**
 
 ---
 
@@ -59,4 +87,4 @@
 
 ---
 
-<h3 align="center">💻 Explore My Repositories Below ⬇️</h3>
+<h3 align="center">💻 Explore My Work Below ⬇️</h3>
