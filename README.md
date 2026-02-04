@@ -1,110 +1,142 @@
-<!-- Typing Animation Header -->
+<!-- ======================= -->
+<!--        HERO SECTION     -->
+<!-- ======================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Divine+Eyibie;Fullstack+Software+Engineer;Product+Builder+%7C+Problem+Solver;Turning+Ideas+Into+Scalable+Products" alt="Typing Animation">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Divine+Eyibie;Fullstack+Engineer+%7C+AI+Developer;Web+%7C+Mobile+%7C+Backend;Building+Scalable+Products+That+Matter"
+    alt="Typing Animation"
+  />
 </h1>
 
 <p align="center">
-  <strong>Fullstack Engineer · Product Builder · Problem Solver</strong>
+  <img src="https://img.shields.io/badge/Location-UK-00E5FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Fullstack%20Engineer-00E5FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web%20%7C%20Mobile-00E5FF?style=flat-square" />
+</p>
+
+<p align="center">
+  <strong>Software Engineer · AI Developer · Product Builder</strong>
 </p>
 
 ---
 
-## 👋 About Me
+## 🧠 About Me
 
-I’m a **Fullstack Software Engineer** focused on building **scalable, reliable, and user-centered products**.  
-I enjoy turning complex ideas into clean, production-ready systems that actually solve real problems.
+I’m a **Fullstack Software Engineer** with strong experience building **scalable web platforms, AI-powered systems, and mobile applications**.
 
-I’ve worked across startups and teams as both an **individual contributor and technical lead**, handling everything from frontend architecture to backend systems, databases, and deployment workflows.
+I specialize in turning **complex ideas into production-ready products** — from backend architecture and API design to polished user experiences across **web and mobile**.
 
-**What drives me:**  
-- Building products people enjoy using  
-- Writing clean, maintainable, scalable code  
-- Turning ideas into real, working solutions  
+I enjoy working at the intersection of:
+- Product & engineering  
+- AI & real-world applications  
+- Performance, scalability & clean architecture  
 
 ---
 
-## 🧠 What I Do Best
+## 🚀 What I Build
 
-### 🧩 Fullstack Engineering
-- Build end-to-end web applications  
-- Design APIs and backend systems  
-- Develop responsive, accessible user interfaces  
-- Maintain and scale production applications  
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### 🚀 Product Development
-- Collaborate with founders and stakeholders  
-- Translate business requirements into technical solutions  
-- Design scalable architectures from day one  
-- Optimize performance and user experience  
+### 🌐 Web Applications
+- Next.js & React platforms  
+- API-driven systems  
+- Scalable backend services  
+- CMS & automation tools  
+
+    </td>
+    <td width="50%" valign="top">
+
+### 📱 Mobile Applications
+- React Native apps  
+- Backend-connected mobile systems  
+- Performance-focused UI/UX  
+- Cross-platform deployments  
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤖 AI & Intelligent Systems
+
+I design and integrate **AI-powered features** into real-world products, including:
+- Computer vision & image processing  
+- AI-driven automation  
+- Model integration into production apps  
+- Data-driven intelligent systems  
+
+> My focus is **practical AI**, not just experimentation.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### ⚛️ Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- Chakra UI
-- Ant Design
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,chakra,antd" />
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://img.shields.io/badge/React%20Native-00E5FF?style=flat-square&logo=react&logoColor=white" />
+</p>
 
 ### 🏗️ Backend
-- Node.js
-- NestJS
-- Express
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
 
-### 🗃️ Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis
+### 🗃️ Databases & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker" />
+</p>
 
-### ⚙️ DevOps & Tools
-- Git & GitHub
-- Docker
-- REST APIs
-- WebSockets
-- Strapi CMS
-- Jest (Testing)
+### 🤖 AI & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
 ---
 
 ## 🧪 Currently Working With
-- **JavaScript / TypeScript**
-- **Python**
-- **Next.js & NestJS**
-- **Redis & PostgreSQL**
+- TypeScript & JavaScript  
+- Python (AI & backend systems)  
+- Next.js & NestJS  
+- Redis & PostgreSQL  
+- React Native  
 
 ---
 
-## 🔭 Currently Exploring
-- Advanced backend architecture patterns  
+## 🔍 Exploring & Improving
+- Advanced backend architecture  
 - Microservices & distributed systems  
 - Cloud-native deployments  
-- Performance optimization & automation  
-- Deeper Python applications  
+- AI optimization & inference  
+- Performance tuning & automation  
 
 ---
 
-## 🏆 Highlights
-- Sole fullstack developer on multiple production apps  
-- Led frontend teams and architectural decisions  
-- Built systems used in real-world business workflows  
-- Experience across fintech, crypto, automation, and SaaS  
+## 🏆 Career Highlights
+- Built and maintained **production systems as a solo engineer**
+- Led frontend teams and architectural decisions
+- Integrated AI models into live applications
+- Delivered scalable products across **fintech, crypto, SaaS & automation**
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divine-eyibie/">
     <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://twitter.com/dev_chenna">
     <img src="https://img.shields.io/badge/Twitter-00E5FF?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://github.com/UncleChenna">
     <img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -112,4 +144,4 @@ I’ve worked across startups and teams as both an **individual contributor and 
 
 ---
 
-<h3 align="center">🚀 Explore My Projects Below ⬇️</h3>
+<h3 align="center">🚀 Scroll Down & Explore My Work</h3>
