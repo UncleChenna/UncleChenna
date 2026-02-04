@@ -18,18 +18,31 @@
   <strong>Software Engineer · AI Developer · Product Builder</strong>
 </p>
 
+<!-- TOP WAVE DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=90&animation=fadeIn" />
+</p>
+
 ---
 
 ## 🧠 About Me
 
-I’m a **Fullstack Software Engineer** with strong experience building **scalable web platforms, AI-powered systems, and mobile applications**.
+I’m a **Fullstack Software Engineer** with strong experience building  
+**scalable web platforms, AI-powered systems, and mobile applications**.
 
-I specialize in turning **complex ideas into production-ready products** — from backend architecture and API design to polished user experiences across **web and mobile**.
+I specialize in turning **complex ideas into production-ready products** —  
+from backend architecture and API design to polished user experiences across  
+**web and mobile**.
 
 I enjoy working at the intersection of:
 - Product & engineering  
 - AI & real-world applications  
 - Performance, scalability & clean architecture  
+
+<!-- GRADIENT DIVIDER -->
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/colored.png" />
+</p>
 
 ---
 
@@ -58,17 +71,27 @@ I enjoy working at the intersection of:
   </tr>
 </table>
 
+<!-- PULSE DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</p>
+
 ---
 
 ## 🤖 AI & Intelligent Systems
 
-I design and integrate **AI-powered features** into real-world products, including:
+I design and integrate **AI-powered features** into real-world products:
 - Computer vision & image processing  
 - AI-driven automation  
 - Model integration into production apps  
 - Data-driven intelligent systems  
 
 > My focus is **practical AI**, not just experimentation.
+
+<!-- GRADIENT DIVIDER -->
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/colored.png" />
+</p>
 
 ---
 
@@ -100,6 +123,11 @@ I design and integrate **AI-powered features** into real-world products, includi
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
+<!-- PULSE DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</p>
+
 ---
 
 ## 🧪 Currently Working With
@@ -117,6 +145,11 @@ I design and integrate **AI-powered features** into real-world products, includi
 - Cloud-native deployments  
 - AI optimization & inference  
 - Performance tuning & automation  
+
+<!-- GRADIENT DIVIDER -->
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/colored.png" />
+</p>
 
 ---
 
@@ -142,6 +175,9 @@ I design and integrate **AI-powered features** into real-world products, includi
   </a>
 </p>
 
----
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer&animation=fadeIn" />
+</p>
 
 <h3 align="center">🚀 Scroll Down & Explore My Work</h3>
