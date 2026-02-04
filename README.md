@@ -1,79 +1,100 @@
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Divine+Eyibie;Software+Engineer+%7C+Product+Builder;Turning+Ideas+Into+Scalable+Solutions" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Divine+Eyibie;Fullstack+Software+Engineer;Product+Builder+%7C+Problem+Solver;Turning+Ideas+Into+Scalable+Products" alt="Typing Animation">
 </h1>
 
----
-
-## 👨‍💻 About Me
-
-I am a **resourceful software engineer** passionate about building products that improve everyday life, enhance accessibility, and empower people through technology. I care deeply about usability, scalability, and seamless experiences.
-
-I have a strong understanding of the technologies needed to develop and deploy **highly available, scalable, and production-ready applications**.  
-My goal is simple: **to build valuable and impactful products for individuals, startups, and established companies**—products that are not just functional, but meaningful.
+<p align="center">
+  <strong>Fullstack Engineer · Product Builder · Problem Solver</strong>
+</p>
 
 ---
 
-## 🧩 What I Do
+## 👋 About Me
 
-### ✅ Fullstack Engineering
-I build end-to-end digital products using modern web technologies, handling:
-- Frontend architecture and user interfaces
-- Backend development and APIs
-- Deployment, versioning, and maintenance
+I’m a **Fullstack Software Engineer** focused on building **scalable, reliable, and user-centered products**.  
+I enjoy turning complex ideas into clean, production-ready systems that actually solve real problems.
 
-### ✅ Product Development
-From concept to launch, I collaborate with teams, founders, and businesses to:
-- Transform ideas into real products
-- Design scalable architecture
-- Ensure long-term maintainability
-- Optimize user experience and performance
+I’ve worked across startups and teams as both an **individual contributor and technical lead**, handling everything from frontend architecture to backend systems, databases, and deployment workflows.
+
+**What drives me:**  
+- Building products people enjoy using  
+- Writing clean, maintainable, scalable code  
+- Turning ideas into real, working solutions  
 
 ---
 
-## 🚀 What I'm Currently Working With
-I'm actively building with:
-- **JavaScript**
-- **Python**
+## 🧠 What I Do Best
 
-These form the core of my daily development stack as I expand into broader ecosystems.
+### 🧩 Fullstack Engineering
+- Build end-to-end web applications  
+- Design APIs and backend systems  
+- Develop responsive, accessible user interfaces  
+- Maintain and scale production applications  
+
+### 🚀 Product Development
+- Collaborate with founders and stakeholders  
+- Translate business requirements into technical solutions  
+- Design scalable architectures from day one  
+- Optimize performance and user experience  
 
 ---
 
-## 🛠️ Core Technologies & Tools
+## 🛠️ Tech Stack
 
 ### ⚛️ Frontend
-- Next.js
 - React.js
+- Next.js
+- Tailwind CSS
+- Chakra UI
+- Ant Design
 
 ### 🏗️ Backend
-- NestJS
 - Node.js
+- NestJS
+- Express
 
 ### 🗃️ Databases
-- PostgreSQL  
-- MySQL  
-- MongoDB  
+- PostgreSQL
+- MongoDB
+- MySQL
+- Redis
 
-### ⚙️ DevOps / Deployment (experience & practice areas)
-- Version control (Git/GitHub)
-- Scalable deployments
-- Environment management
-- API integrations
-
----
-
-## 🔭 Technologies I’m Exploring
-I'm expanding my knowledge and skillset in:
-- **Advanced Python applications**
-- **Backend architecture patterns**
-- **Cloud-native deployments**
-- **Microservices and distributed systems**
-- **Performance optimization and infrastructure automation**
+### ⚙️ DevOps & Tools
+- Git & GitHub
+- Docker
+- REST APIs
+- WebSockets
+- Strapi CMS
+- Jest (Testing)
 
 ---
 
-## 🌐 Connect With Me
+## 🧪 Currently Working With
+- **JavaScript / TypeScript**
+- **Python**
+- **Next.js & NestJS**
+- **Redis & PostgreSQL**
+
+---
+
+## 🔭 Currently Exploring
+- Advanced backend architecture patterns  
+- Microservices & distributed systems  
+- Cloud-native deployments  
+- Performance optimization & automation  
+- Deeper Python applications  
+
+---
+
+## 🏆 Highlights
+- Sole fullstack developer on multiple production apps  
+- Led frontend teams and architectural decisions  
+- Built systems used in real-world business workflows  
+- Experience across fintech, crypto, automation, and SaaS  
+
+---
+
+## 🌍 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divine-eyibie/">
@@ -83,8 +104,12 @@ I'm expanding my knowledge and skillset in:
   <a href="https://twitter.com/dev_chenna">
     <img src="https://img.shields.io/badge/Twitter-00E5FF?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://github.com/UncleChenna">
+    <img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">💻 Explore My Work Below ⬇️</h3>
+<h3 align="center">🚀 Explore My Projects Below ⬇️</h3>
